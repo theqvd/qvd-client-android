@@ -7,7 +7,6 @@ import java.util.List;
 import com.theqvd.android.xpro.Config;
 import com.theqvd.android.xpro.XvncproActivity;
 import com.theqvd.android.xpro.XvncproException;
-import com.theqvd.client.jni.Qvdclient;
 import com.theqvd.client.jni.QvdclientWrapper;
 import com.theqvd.client.jni.Vm;
 

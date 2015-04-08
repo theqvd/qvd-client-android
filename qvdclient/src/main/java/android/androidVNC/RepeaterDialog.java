@@ -5,14 +5,13 @@ package android.androidVNC;
 
 import android.app.Activity;
 import android.app.Dialog;
-import android.content.Context;
 import android.os.Bundle;
 import android.text.Html;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import com.theqvd.android.xpro.*;
+
 import com.theqvd.android.client.*;
 
 /**

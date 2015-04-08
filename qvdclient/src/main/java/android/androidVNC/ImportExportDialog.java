@@ -28,7 +28,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 import org.xml.sax.SAXException;
-import com.theqvd.android.xpro.*;
+
 import com.theqvd.android.client.*;
 
 /**

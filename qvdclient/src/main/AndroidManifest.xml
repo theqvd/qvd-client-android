@@ -24,8 +24,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="EditConnectionActivity"></activity>
-        <activity android:name="SelectVmActivity"></activity>
+        <activity android:name=".EditConnectionActivity"></activity>
+        <activity android:name=".SelectVmActivity"></activity>
         <activity
             android:name="com.theqvd.android.xpro.XvncproActivity"
             android:label="@string/xvncpro_app_name">

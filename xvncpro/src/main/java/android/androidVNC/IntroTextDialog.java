@@ -18,7 +18,6 @@ import android.view.MenuItem.OnMenuItemClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 import com.theqvd.android.xpro.*;
-import com.theqvd.android.client.*;
 
 /**
  * @author Michael A. MacDonald

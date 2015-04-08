@@ -220,10 +220,10 @@ public class VncCanvas extends ImageView {
 		// </RepeaterMagic>
 
 		rfb.readVersionMsg();
-		Log.i(TAG, "RFB server supports protocol version " + rfb.serverMajor + "." + rfb.serverMinor);
+		Log.i(TAG, "RFB server supports protocol version " + rfb.serverMajor + "" + rfb.serverMinor);
 
 		rfb.writeVersionMsg();
-		Log.i(TAG, "Using RFB protocol version " + rfb.clientMajor + "." + rfb.clientMinor);
+		Log.i(TAG, "Using RFB protocol version " + rfb.clientMajor + "" + rfb.clientMinor);
 
 		int bitPref=0;
 		if(connection.getUserName().length()>0)

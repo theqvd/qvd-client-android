@@ -32,7 +32,6 @@ import java.io.*;
 import java.net.Socket;
 //- import java.util.zip.*;
 import android.util.Log;
-import android.androidVNC.DH;
 
 /**
  * Access the RFB protocol through a socket.

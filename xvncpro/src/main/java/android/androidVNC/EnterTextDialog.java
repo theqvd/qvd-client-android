@@ -19,7 +19,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import com.theqvd.android.xpro.*;
-import com.theqvd.android.client.*;
 
 /**
  * @author Michael A. MacDonald

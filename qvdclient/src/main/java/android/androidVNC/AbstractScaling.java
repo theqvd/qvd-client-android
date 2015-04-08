@@ -4,7 +4,7 @@
 package android.androidVNC;
 
 import android.widget.ImageView;
-import com.theqvd.android.xpro.*;
+
 import com.theqvd.android.client.*;
 
 
