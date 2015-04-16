@@ -28,3 +28,7 @@ dependencies {
     compile files('libs/com.antlersoft.android.db.jar')
     compile files('libs/qvdclientjni-0.3.0.jar')
 }
+preBuild.doFirst{
+    assert file("./src/main/jniLibs/armeabi/libqvdclientwrapper.so").exists()
+    assert file("./src/main/jniLibs/x86/libqvdclientwrapper.so").exists()
+}
