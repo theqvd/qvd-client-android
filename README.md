@@ -38,7 +38,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Please see the appropiate licenses for:
 
  * AndroidVNC
- * zommerWithKeys
+ * ZoomerWithKeys
  * xvnc
  * libqvdclient-java
  * libqvdclient-c
