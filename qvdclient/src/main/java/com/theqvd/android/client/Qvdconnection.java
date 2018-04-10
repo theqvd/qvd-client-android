@@ -107,7 +107,8 @@ public class Qvdconnection implements Runnable {
 			qvd.qvd_init(connection.getHost(),
 					connection.getPort(),
 					connection.getLogin(),
-					connection.getPassword());
+					connection.getPassword(),
+                                     "");
 			qvd.qvd_set_home(activity.getFilesDir().getAbsolutePath());
 			//		qvd.qvd_set_no_cert_check();
 			qvd.qvd_set_certificate_handler_callback(certhandler);

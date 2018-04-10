@@ -26,7 +26,7 @@ dependencies {
     compile project(':zoomerWithKeys')
     compile files('libs/com.antlersoft.android.contentxml.jar')
     compile files('libs/com.antlersoft.android.db.jar')
-    compile files('libs/qvdclientjni-0.3.0.jar')
+    compile files('libs/qvdclientjni-0.4.0.jar')
 }
 preBuild.doFirst{
     assert file("./src/main/jniLibs/armeabi/libqvdclientwrapper.so").exists()
