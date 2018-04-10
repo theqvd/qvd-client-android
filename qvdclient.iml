@@ -90,7 +90,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 15 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="qvdclientjni-0.3.0" level="project" />
+    <orderEntry type="library" exported="" name="qvdclientjni-0.4.0" level="project" />
     <orderEntry type="library" exported="" name="com.antlersoft.android.db" level="project" />
     <orderEntry type="library" exported="" name="com.antlersoft.android.contentxml" level="project" />
     <orderEntry type="module" module-name="zoomerWithKeys" exported="" />
